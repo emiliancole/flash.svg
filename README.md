@@ -1,5 +1,6 @@
 # flash.svg
 Draw easily svg pages with javascript functions.
 
-createSvg() 
+createSvg()   
+
 svgPath(id, path, style) 
